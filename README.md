@@ -17,7 +17,7 @@ A tool to automatically rate Wikipedia articles.
 
 ### Installation
 
-The tool can be run through `main.py`, so installation is optional.
+The tool can be installed using `pip`, but you can also run it directly from the repo folder using `main.py` as long as you have all the prerequisites.
 
 ```bash
 cd <repo directory>
